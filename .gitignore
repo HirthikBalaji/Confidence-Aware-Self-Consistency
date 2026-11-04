@@ -15,3 +15,8 @@ ENV/
 .idea/
 .vscode/
 .DS_Store
+
+# Auto-added safety ignores
+*.pem
+*.key
+.env.local
